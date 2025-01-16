@@ -1,0 +1,6 @@
+15.01.2025
+son olarak tez önerisi sunumu yapıldı, yapılacak notlar alındı
+1: literatürün kapsamlı araştırılmasi
+2: GNN stanford üniversitesi kursları takip edilecek
+3: GNN, NLP kodlar irdelenmeye başlanacak
+bu hafta tez incelemeleri ve sınav gözetmenlikleri ile geçti, son olarak tez önerisi sunumunda kaldım.
