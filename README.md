@@ -4,3 +4,8 @@ son olarak tez önerisi sunumu yapıldı, yapılacak notlar alındı
 2: GNN stanford üniversitesi kursları takip edilecek
 3: GNN, NLP kodlar irdelenmeye başlanacak
 bu hafta tez incelemeleri ve sınav gözetmenlikleri ile geçti, son olarak tez önerisi sunumunda kaldım.
+
+21.01.2025
+GNN Stanford University kursları ilk 2 kurs izlendi
+1 (giriş - GNN kullanım alanları)
+2 (GNN - Node-node or Node-Edge bağlantıların kullanım alanları)
