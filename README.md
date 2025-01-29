@@ -13,3 +13,9 @@ Yaz okulu talebi oluşturuldu. -- https://opensenseaction.eu/join-us/
 
 22.01.2025
 cost.eu -- üyelik ve "Working Group Application" tamamlandı.
+
+29.01.2025
+1: tez düzeltme yapıldı
+2: dergipark - makale düzeltme yapıldı (TR Dizin) (devam ediyor)
+3: 1 adet makale özeti çıkarıldı (literatür)
+4: Latex göz atıldı.
