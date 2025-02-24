@@ -19,3 +19,8 @@ cost.eu -- üyelik ve "Working Group Application" tamamlandı.
 2: dergipark - makale düzeltme yapıldı (TR Dizin) (devam ediyor)
 3: 1 adet makale özeti çıkarıldı (literatür)
 4: Latex göz atıldı.
+
+24.02.2025
+
+1: Konferansa yönelik kod araştırması başlandı.
+2: 
