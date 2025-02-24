@@ -23,4 +23,4 @@ cost.eu -- üyelik ve "Working Group Application" tamamlandı.
 24.02.2025
 
 1: Konferansa yönelik kod araştırması başlandı.
-2: 
+2: Referans makale incelendi.
