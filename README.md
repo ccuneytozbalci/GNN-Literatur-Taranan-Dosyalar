@@ -24,3 +24,10 @@ cost.eu -- üyelik ve "Working Group Application" tamamlandı.
 
 1: Konferansa yönelik kod araştırması başlandı.
 2: Referans makale incelendi.
+
+03.03.2025
+1: SCI Makale Submit edildi (Tez'den).
+2: SCI Makale Çeviri tamamlandı (CBRO Algorithm).
+3: Referans makale detaylı incelendi.
+4: Referans makaleye ait kodlar Colab'da denendi. 
+
