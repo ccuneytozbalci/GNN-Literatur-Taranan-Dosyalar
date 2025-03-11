@@ -31,3 +31,8 @@ cost.eu -- üyelik ve "Working Group Application" tamamlandı.
 3: Referans makale detaylı incelendi.
 4: Referans makaleye ait kodlar Colab'da denendi. 
 
+11.03.2025
+1: SCI Makale ret aldı. Tekrardan düzenlendi, farklı bir dergiye submit edildi.
+2: Referans makalenin kodları çalışıldı.
+
+
