@@ -35,4 +35,9 @@ cost.eu -- üyelik ve "Working Group Application" tamamlandı.
 1: SCI Makale ret aldı. Tekrardan düzenlendi, farklı bir dergiye submit edildi.
 2: Referans makalenin kodları çalışıldı.
 
+18.03.2025
+1: BAP - TUBITAK 1002 projeleri detaylı incelendi.
+2: GNN Video Eğitim serisi ilk 7 video tamamlandı.
+3: 
+
 
